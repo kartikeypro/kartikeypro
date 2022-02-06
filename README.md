@@ -1,6 +1,6 @@
-<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Kartikey (yet to make all the changes to Avinash (thnx man!) cloned profile)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">Finance and AI Enthusiast</h3>
 
 ## Dynamic Quotes 📜:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
@@ -12,11 +12,11 @@
 
 <p>
   
-- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
-- Looking for opportunities and collaborations in the field of data science. ✅
+- Computer Science & Engineering - 4th year @ Shiv Nadar University. 🎓
+- Currently working with <a href="https://truebeacon.com" target="_black">DeepSphere.AI</a> as a Data Engineer Intern. 🏥
+- Looking for opportunities and collaborations in the field of data science and finance. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Planning to Blog in the near future. 📝
+- Write from time to time. 📝
 </p>
 
 <div align="center">
@@ -36,7 +36,7 @@
 <h3 align="left">Languages:</h3>
 
 - English 🔤
-- Tamil
+- Hindi
 
 <br><br>
 
