@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kartikey (yet to make all the changes to Avinash (thnx man!) cloned profile)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Kartikey (yet to make all the changes to Avinash (thnx man!) cloned profile.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">Finance and AI Enthusiast</h3>
 
