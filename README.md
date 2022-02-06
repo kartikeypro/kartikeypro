@@ -13,7 +13,7 @@
 <p>
   
 - Computer Science & Engineering - 4th year @ Shiv Nadar University. 🎓
-- Currently working with <a href="https://truebeacon.com" target="_black">DeepSphere.AI</a> as a Data Engineer Intern. 🏥
+- Currently working with <a href="https://truebeacon.com" target="_black">True Beacon</a> as a Data Engineer Intern. 🏥
 - Looking for opportunities and collaborations in the field of data science and finance. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Write from time to time. 📝
@@ -67,63 +67,58 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
   
 ## **Badges🥇**<br>
-<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
-<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
-<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
-  
+
 # Achievements :
-  - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
-  - Eligible for Seed-Funding from Mepco Schlenk Engineering College
-  - Got selected to meet-up with Angel Investors.
+
 
   
 ## &#x1f4c8; My GitHub Stats🎯
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/avinash-218)
+![Profile views](https://gpvc.arturio.dev/kartikeypro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeypro&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=kartikeypro&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
   
 <details><summary>Trophies</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=avinash-218&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=kartikeypro&column=7&theme=gruvbox&no-frame=true"/>
 </details>
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikeypro&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeypro&theme=chartreuse-dark" />
 </p>  
 
-<a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
+<a href="https://gitstalk.netlify.app/kartikeypro/" target="_blank"> See My Latest Activities Here</a>
   
 
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]()
 <br><br>
-[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
+[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />]()
 <br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)
+[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]()
 <br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)
+[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />]()
 <br><br>
-[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
+[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />]()
 <br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ravinash218)
+[<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />]()
 <br><br>
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/kartikeypro/kartikeypro/output/github-contribution-grid-snake.svg)
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
