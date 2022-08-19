@@ -9,7 +9,7 @@
 
 - 🔬 I'm currently working as an Quantitaive Analyst at Blackrock MASS division. 
 
-- 🔭 I’m worked as **Quant and Data Engineer at True Beacon**
+- 🔭 I have worked as a **Quant and Data Engineer at True Beacon**
 
 - 🌱 I’m currently learning **Derivatives**
 
