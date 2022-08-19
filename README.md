@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/itskartikey" target="blank"><img src="https://img.shields.io/twitter/follow/itskartikey?logo=twitter&style=for-the-badge" alt="itskartikey" /></a> </p>
 
-- 🔭 I’m currently working as **Data Engineer at True Beacon**
+- 🔬 I'm currently working as an Quantitaive Analyst at Blackrock MASS division. 
+
+- 🔭 I’m worked as **Quant and Data Engineer at True Beacon**
 
 - 🌱 I’m currently learning **Derivatives**
 
